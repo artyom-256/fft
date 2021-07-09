@@ -17,5 +17,5 @@ cd fft
 mkdir build
 cd build
 cmake ..
-make
+# run your favorite compiler here
 ```
